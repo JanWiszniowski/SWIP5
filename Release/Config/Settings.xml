@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<_settings class_id="0" tracking_level="0" version="0">
+	<settings class_id="1" tracking_level="0" version="0">
+		<count>4</count>
+		<item_version>0</item_version>
+		<item class_id="2" tracking_level="0" version="0">
+			<first>QMLHash</first>
+			<second class_id="3" tracking_level="0" version="0">
+				<which>0</which>
+				<value>igf.edu.pl</value>
+			</second>
+		</item>
+		<item>
+			<first>Region</first>
+			<second>
+				<which>0</which>
+				<value>Song Tranh 2</value>
+			</second>
+		</item>
+		<item>
+			<first>Update path</first>
+			<second>
+				<which>0</which>
+				<value>c:\swip5\SVN\QuakeMLFiles</value>
+			</second>
+		</item>
+		<item>
+			<first>agencyID</first>
+			<second>
+				<which>0</which>
+				<value>IGPAS</value>
+			</second>
+		</item>
+	</settings>
+</_settings>
+</boost_serialization>
+

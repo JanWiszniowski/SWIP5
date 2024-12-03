@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Settings class_id="0" tracking_level="0" version="0">
+	<pp>0</pp>
+	<ifcomponents>
+		<count>3</count>
+		<item>1</item>
+		<item>1</item>
+		<item>1</item>
+	</ifcomponents>
+	<amplitudeStyle>0</amplitudeStyle>
+	<magnitudeMethod>0</magnitudeMethod>
+	<permissiblePhases class_id="1" tracking_level="0" version="0">
+		<count>4</count>
+		<item_version>0</item_version>
+		<item>S</item>
+		<item>Sg</item>
+		<item>S</item>
+		<item>Sg</item>
+	</permissiblePhases>
+	<preferredMagnitudeID>0</preferredMagnitudeID>
+</Settings>
+</boost_serialization>
+

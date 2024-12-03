@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Simplex class_id="0" tracking_level="0" version="0">
+	<sizeLimits class_id="1" tracking_level="0" version="0">
+		<count>4</count>
+		<item_version>0</item_version>
+		<item class_id="2" tracking_level="0" version="0">
+			<minimum>-4.00000000000000000e+000</minimum>
+			<maximum>0.00000000000000000e+000</maximum>
+		</item>
+		<item>
+			<minimum>-4.00000000000000000e+004</minimum>
+			<maximum>4.00000000000000000e+004</maximum>
+		</item>
+		<item>
+			<minimum>-4.00000000000000000e+004</minimum>
+			<maximum>4.00000000000000000e+004</maximum>
+		</item>
+		<item>
+			<minimum>0.00000000000000000e+000</minimum>
+			<maximum>0.00000000000000000e+000</maximum>
+		</item>
+	</sizeLimits>
+	<alpha>1.00000000000000000e+000</alpha>
+	<beta>5.00000000000000000e-001</beta>
+	<gamma>2.00000000000000000e+000</gamma>
+	<tolerance>4.00000000000000010e-002</tolerance>
+	<maxIterations>300</maxIterations>
+</Simplex>
+</boost_serialization>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<monitor class_id="0" tracking_level="0" version="0">
+	<show>0</show>
+	<sizeX>800</sizeX>
+	<sizeY>400</sizeY>
+	<positionX>50</positionX>
+	<positionY>50</positionY>
+</monitor>
+<main>
+	<show>0</show>
+	<sizeX>1920</sizeX>
+	<sizeY>1043</sizeY>
+	<positionX>197</positionX>
+	<positionY>51</positionY>
+</main>
+<zoom>
+	<show>0</show>
+	<sizeX>1061</sizeX>
+	<sizeY>454</sizeY>
+	<positionX>50</positionX>
+	<positionY>129</positionY>
+</zoom>
+<report>
+	<show>1</show>
+	<sizeX>1606</sizeX>
+	<sizeY>865</sizeY>
+	<positionX>155</positionX>
+	<positionY>51</positionY>
+</report>
+<elaboration>
+	<show>1</show>
+	<sizeX>1920</sizeX>
+	<sizeY>1160</sizeY>
+	<positionX>153</positionX>
+	<positionY>45</positionY>
+</elaboration>
+</boost_serialization>
+

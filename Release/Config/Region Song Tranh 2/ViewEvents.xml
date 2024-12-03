@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<map class_id="0" tracking_level="0" version="0">
+	<minLatitude>1.51000000000000000e+001</minLatitude>
+	<maxLatitude>1.55500000000000010e+001</maxLatitude>
+	<minLongitude>1.07900000000000010e+002</minLongitude>
+	<maxLongitude>1.08400000000000010e+002</maxLongitude>
+	<shapeFile>Shapes.xml</shapeFile>
+</map>
+<magnituteName>ML</magnituteName>
+</boost_serialization>
+

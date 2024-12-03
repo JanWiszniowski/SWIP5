@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Settings class_id="0" tracking_level="0" version="0">
+	<synchronisationPeriod>30</synchronisationPeriod>
+	<host>localhost</host>
+	<port>18001</port>
+	<timeout>60</timeout>
+	<user>anonymous@igf.edu.pl</user>
+	<password></password>
+	<institution>IGP PAS</institution>
+	<dcid_path></dcid_path>
+	<path_buf></path_buf>
+	<wait_for_data_ready>30</wait_for_data_ready>
+	<waveform_duration>5.00000000000000000e+000</waveform_duration>
+	<waveform_begin class_id="1" tracking_level="0" version="0">
+		<string>2017-02-01T09:55:09.276722Z</string>
+		<microseconds>1485942909276722</microseconds>
+	</waveform_begin>
+	<waveform_end>
+		<string>2017-02-01T09:58:09.276722Z</string>
+		<microseconds>1485943089276722</microseconds>
+	</waveform_end>
+	<reloadSta>1</reloadSta>
+	<regionSta class_id="2" tracking_level="0" version="0">
+		<count>1</count>
+		<item_version>0</item_version>
+		<item class_id="3" tracking_level="0" version="0">
+			<first>VN</first>
+			<second class_id="4" tracking_level="0" version="0">
+				<count>10</count>
+				<item_version>0</item_version>
+				<item class_id="5" tracking_level="0" version="0">
+					<first>PHI</first>
+					<second class_id="6" tracking_level="0" version="0">
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TBVB</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TDO</first>
+					<second>
+						<count>4</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+						<item>EHE</item>
+						<item>EHN</item>
+						<item>EHZ</item>
+					</second>
+				</item>
+				<item>
+					<first>TDVB</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TGI</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TLE</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TLVB</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TMVB</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TNG</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+				<item>
+					<first>TNVB</first>
+					<second>
+						<count>1</count>
+						<item_version>0</item_version>
+						<item>--all--</item>
+					</second>
+				</item>
+			</second>
+		</item>
+	</regionSta>
+</Settings>
+</boost_serialization>
+

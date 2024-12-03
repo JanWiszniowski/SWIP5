@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Parameters class_id="0" tracking_level="0" version="0">
+	<fixedZ>232</fixedZ>
+	<initX>0.00000000000000000e+000</initX>
+	<initY>0.00000000000000000e+000</initY>
+	<initZ>0.00000000000000000e+000</initZ>
+	<initTime>0.00000000000000000e+000</initTime>
+	<ttimeFileRoot></ttimeFileRoot>
+	<outputFileRoot></outputFileRoot>
+	<swapttime>0</swapttime>
+	<earthModelID></earthModelID>
+	<controlFile>C:\Users\jwisz\Documents\temp\test.in</controlFile>
+	<defaultPickError>1.00000000000000010e-001</defaultPickError>
+	<preferredOrigin>0</preferredOrigin>
+	<oneOrigin>0</oneOrigin>
+	<mapLocal class_id="1" tracking_level="0" version="0">
+		<minY>-1.00000000000000000e+001</minY>
+		<maxY>1.00000000000000000e+001</maxY>
+		<minX>-1.00000000000000000e+001</minX>
+		<maxX>1.00000000000000000e+001</maxX>
+		<shapeFile></shapeFile>
+	</mapLocal>
+	<mapGlobal class_id="2" tracking_level="0" version="0">
+		<minLatitude>4.60000000000000000e+001</minLatitude>
+		<maxLatitude>5.50000000000000000e+001</maxLatitude>
+		<minLongitude>1.20000000000000000e+001</minLongitude>
+		<maxLongitude>2.50000000000000000e+001</maxLongitude>
+		<shapeFile></shapeFile>
+	</mapGlobal>
+</Parameters>
+</boost_serialization>
+

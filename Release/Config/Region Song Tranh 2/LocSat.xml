@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Parameters class_id="0" tracking_level="0" version="0">
+	<locsattables>STH2</locsattables>
+	<preferredOrigin>1</preferredOrigin>
+	<map class_id="1" tracking_level="0" version="0">
+		<minLatitude>1.51000000000000000e+001</minLatitude>
+		<maxLatitude>1.55500000000000010e+001</maxLatitude>
+		<minLongitude>1.07900000000000010e+002</minLongitude>
+		<maxLongitude>1.08400000000000010e+002</maxLongitude>
+		<shapeFile>Shapes.xml</shapeFile>
+	</map>
+	<depth_init>5.000000000e+000</depth_init>
+	<lat_init>1.530000019e+001</lat_init>
+	<lon_init>1.081999969e+002</lon_init>
+	<fixing_depth>5.000000000e+000</fixing_depth>
+	<fix_depth>110</fix_depth>
+	<max_iterations>1000</max_iterations>
+	<use_depth_offset>0</use_depth_offset>
+</Parameters>
+</boost_serialization>
+

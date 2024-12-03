@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<pluginFrameParameters class_id="0" tracking_level="0" version="0">
+	<count>2</count>
+	<item_version>0</item_version>
+	<item class_id="1" tracking_level="0" version="0">
+		<first>Channels response plot</first>
+		<second class_id="2" tracking_level="0" version="0">
+			<show>0</show>
+			<sizeX>620</sizeX>
+			<sizeY>460</sizeY>
+			<positionX>847</positionX>
+			<positionY>342</positionY>
+		</second>
+	</item>
+	<item>
+		<first>Hybrid Moment Tensor </first>
+		<second>
+			<show>0</show>
+			<sizeX>1080</sizeX>
+			<sizeY>900</sizeY>
+			<positionX>617</positionX>
+			<positionY>122</positionY>
+		</second>
+	</item>
+</pluginFrameParameters>
+</boost_serialization>
+

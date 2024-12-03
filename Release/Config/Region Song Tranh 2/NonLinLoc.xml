@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Settings class_id="0" tracking_level="0" version="0">
+	<fixedZ>0</fixedZ>
+	<initX>0.00000000000000000e+000</initX>
+	<initY>0.00000000000000000e+000</initY>
+	<initZ>0.00000000000000000e+000</initZ>
+	<initTime>0.00000000000000000e+000</initTime>
+	<ttimeFileRoot></ttimeFileRoot>
+	<swapttime>0</swapttime>
+	<earthModelID></earthModelID>
+	<defaultPickError>0.00000000000000000e+000</defaultPickError>
+	<preferredOrigin>0</preferredOrigin>
+	<map class_id="1" tracking_level="0" version="0">
+		<minY>-1.00000000000000000e+001</minY>
+		<maxY>1.00000000000000000e+001</maxY>
+		<minX>-1.00000000000000000e+001</minX>
+		<maxX>1.00000000000000000e+001</maxX>
+		<shapeFile></shapeFile>
+	</map>
+</Settings>
+</boost_serialization>
+

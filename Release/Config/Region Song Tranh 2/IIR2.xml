@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<parameters>
+	<count>5</count>
+	<item class_id="0" tracking_level="0" version="0">
+		<freq>1.00000000000000010e-001</freq>
+		<freq2>2.00000000000000000e+000</freq2>
+		<DQ>7.06999999999999960e-001</DQ>
+	</item>
+	<item>
+		<freq>2.00000000000000000e+001</freq>
+		<freq2>2.00000000000000000e+000</freq2>
+		<DQ>7.06999999999999960e-001</DQ>
+	</item>
+	<item>
+		<freq>9.00000000000000020e-001</freq>
+		<freq2>6.00000000000000000e+000</freq2>
+		<DQ>7.06999999999999960e-001</DQ>
+	</item>
+	<item>
+		<freq>1.00000000000000010e-001</freq>
+		<freq2>2.00000000000000000e+000</freq2>
+		<DQ>7.06999999999999960e-001</DQ>
+	</item>
+	<item>
+		<freq>3.00000000000000000e+001</freq>
+		<freq2>2.00000000000000000e+000</freq2>
+		<DQ>1.12070000000000010e+001</DQ>
+	</item>
+</parameters>
+</boost_serialization>
+

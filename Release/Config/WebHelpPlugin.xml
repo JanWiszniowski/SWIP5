@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Parameters class_id="0" tracking_level="0" version="0">
+	<count>2</count>
+	<item_version>0</item_version>
+	<item class_id="1" tracking_level="0" version="0">
+		<helpMenu>SWIP5 WWW</helpMenu>
+		<helpURL>https://docs.cyfronet.pl/pages/viewpage.action?pageId=74809975</helpURL>
+		<helpSubmenu></helpSubmenu>
+	</item>
+	<item>
+		<helpMenu>Modules WWW</helpMenu>
+		<helpURL>https://docs.cyfronet.pl/pages/viewpage.action?pageId=91785221</helpURL>
+		<helpSubmenu></helpSubmenu>
+	</item>
+</Parameters>
+</boost_serialization>
+

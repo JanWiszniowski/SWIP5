@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<regionSettings class_id="0" tracking_level="0" version="0">
+	<name>Song Tranh 2</name>
+	<baseLatitude>1.53300000000000000e+001</baseLatitude>
+	<baseLongitude>1.08150000000000010e+002</baseLongitude>
+	<baseElevation>0.00000000000000000e+000</baseElevation>
+	<earthModelID></earthModelID>
+</regionSettings>
+</boost_serialization>
+

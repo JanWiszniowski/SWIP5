@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<parameters class_id="0" tracking_level="0" version="0">
+	<standby>0</standby>
+	<host>localhost</host>
+	<database>SWIDB</database>
+	<user>user</user>
+	<password>user</password>
+	<defaultNet></defaultNet>
+	<streamsDef class_id="1" tracking_level="0" version="0">
+		<count>0</count>
+		<item_version>0</item_version>
+	</streamsDef>
+	<confirmOne>1</confirmOne>
+	<openFilterWindow>1</openFilterWindow>
+	<beginTime></beginTime>
+	<endTime></endTime>
+	<region></region>
+</parameters>
+</boost_serialization>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<map class_id="0" tracking_level="0" version="0">
+	<minY>-1.00000000000000000e+001</minY>
+	<maxY>1.00000000000000000e+001</maxY>
+	<minX>-1.00000000000000000e+001</minX>
+	<maxX>1.00000000000000000e+001</maxX>
+	<shapeFile>ShapesXY.xml</shapeFile>
+</map>
+</boost_serialization>
+
