@@ -1,0 +1,38 @@
+LocSAT LaiChau
+<value>1.757122159</value>
+<semiMajorAxisLength>1.61400794983</semiMajorAxisLength>
+<semiMinorAxisLength>0.868227362633</semiMinorAxisLength>
+
+
+
+
+
+LocSAT M1Vinp
+<value>4.56108999252</value>
+<semiMajorAxisLength>1.63811802864</semiMajorAxisLength>
+<semiMinorAxisLength>1.07386803627</semiMinorAxisLength>
+
+LocSAT M1Vout
+<value>4.82398509979</value>
+<semiMajorAxisLength>1.57563066483</semiMajorAxisLength>
+<semiMinorAxisLength>1.0404188633</semiMinorAxisLength>
+
+LocSAT M2Vinp
+<value>2.14258933067</value>
+<semiMajorAxisLength>1.53835999966</semiMajorAxisLength>
+<semiMinorAxisLength>0.894593238831</semiMinorAxisLength>
+
+LocSAT M2Vout
+<value>4.90842294693</value>
+<semiMajorAxisLength>1.6154948473</semiMajorAxisLength>
+<semiMinorAxisLength>1.09021878242</semiMinorAxisLength>
+
+LocSAT M3Vinp
+<value>0.75489538908</value>
+<semiMajorAxisLength>1.69518983364</semiMajorAxisLength>
+<semiMinorAxisLength>1.15551364422</semiMinorAxisLength>
+
+LocSAT M3Vout
+<value>2.59452152252</value>
+<semiMajorAxisLength>2.50493359566</semiMajorAxisLength>
+<semiMinorAxisLength>0.580830991268</semiMinorAxisLength>
