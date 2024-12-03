@@ -1,0 +1,82 @@
+A. Zawartość repozytorium
+
+W katalogu https://git.plgrid.pl/projects/SWIP/repos/SWIP5_public/Release znajdują się wszystkie
+pliki potrzebne do działania programu, w tym pliki exe, i dll, oraz pliki przykładowa konfiguracja.
+W katalogu Data znajdują się pliki przykładowego wstrząsu 
+Struktura podkatalogów Release jest następująca: 
+Katalog Cache/Icons - Cache jest wykorzystywany do przechowywania tymczasowych plików. Musi
+istnieć ten katalog do poprawnej pracy. Cache/Icons przechowuje "piłki plażowe" tensorów momentów
+sejsmicznych. Jego brak uniemożliwia ich rysowanie.
+Katalog Config - zawiera wszystkie pliki konfiguracyjne. W wersji instalacyjnej zawiera tylko przykład 
+konfiguracji dla rejonu sejsmiczności indukowanej zbiornikiem wodnym w Song Tranh 2 w Wietnamie.
+Katalog Icons - zawiera ikony programu.
+Katalog locsat - zawiera hodogramy dla wtyczki LocSAT służącej do lokalizacji wstrząsów.
+Katalog Logs – zawiera logi pracy programu zapisywane w trakcie pracy programu - głównie "swip.log".
+Directory Plugins - katalog ten zawiera wszystkie wtyczki programu - pliki dll. Ich dodawanie
+lub usuwanie pozwala zmieniać funkcjonalność programu.
+
+B. Pobranie programu
+
+1. Pierwszy sposób polega na pobraniu skompresowanych plików. W tym celu na stronie
+https://git.plgrid.pl/projects/SWIP/repos/SWIP5_public/browse/Release
+należy kliknąć przycisk [...] i wybrać Download. Po zapisaniu bliku należy go rozpakować w wybranym
+katalogu. Można do tego użyć dowolnego programu do dekompresji. Program zostanie przekopiowany
+do podkatalogu: .\Release\
+Można go wywołać poleceniem SWIP5 z katalogu .\Release\. Wywołanie z innego katalogu spowoduje
+przydzielenie złych ścieżek i w efekcie błędną pracę programu. 
+
+2. Drugi sposób polega na sklonowaniu programu z wykorzystaniem GIT
+Do tego potrzebny jest program git. W systemie Windows również jest wiele sposobów instalacji gita.
+Oficjalna wersja jest dostępna do pobrania na stronie Gita.
+Należy przejść do http://git-scm.com/download/win a pobieranie rozpocznie się automatycznie.
+Projekt nosi nazwę Git for Windows (również msysGit).
+Po zainstalowaniu gita należy podać dane osobiste:
+git config --global user.name "Imię Nazwisko"
+git config --global user.email "mail@instytut.pl"
+następnie sklonować kody programu poleceniem:
+git clone https://git.plgrid.pl/scm/swip/SWIP5_public.git
+Program zostanie przekopiowany (sklonowany) do podkatalogu: .\SWIP5_public\Release\
+Można go wywołać poleceniem SWIP5 z katalogu .\SWIP5_public\Release\. Wywołanie z innego katalogu
+spowoduje przydzielenie złych ścieżek i w efekcie błędną pracę programu. 
+
+C. Aktualizacja programu
+
+1. Aktualizacje programu wykonuje się identycznie jak kopiowanie. Można to zrobić w tych samych
+katalogach. Zalecane jest przed
+aktualizacją opróżnienie podkatalogu Plugins, gdyż niektóre wtyczki mogą być wycofane z dystrybucji.
+Po aktualizacji nie trzeba powtórnie konfigurować programu – wypełniać katalog Config,
+ale pliki konfiguracyjne niektórych wtyczek mogą być nieaktualne, co jest w większości przypadków
+odpowiednio komunikowane, i należy je poprawić na postawie plików tmp. Pliki tmp są tworzone w
+momencie, gdy wtyczka nie potrafi poprawnie odczytać odpowiednich plików xml z konfiguracją wtyczki.
+2. W przypadku klonowania aktualizację programu wykonuje się poleceniem:
+git pull https://git.plgrid.pl/scm/swip/SWIP5_public.git
+
+D. Konfiguracja programu
+
+Po pobraniu programu przez sklonowanie lub przekopiowanie całego katalogu z zawartością Release,
+należy dodać pliki konfiguracyjne.
+Gdy istnieje już własna wersja SWIP5 należy to zrobić przez dokopiowanie swojego katalogu Config
+w miejsce Release/Config. Nie trzeba tego robić, gdy uaktualniamy program do tego samego katalogu.
+Klonowanie jest szybsze od kopiowania, gdyż przepisywane są tylko zmienione pliki.
+Gdy nie ma własnej skonfigurowanej wersji SWIP5, należy wszystkie pliki stworzyć samodzielnie na
+podstawie dokumentacji. W tym celu należy stworzyć własny region, skonfigurować program
+oraz moduły. Region trzymany jest w katalogu Config\Region <nazwa regionu>. Katalog ten zawiera
+wszystkie konfiguracje dla danego regionu. 
+
+Program można wywołać poleceniem: SWIP5.exe ewentualnie z parametrem z nazwą regionu,
+np. SWIP5 -r SENTINELS. Jeżeli wywołuje się program bez parametru, to nawę regionu pobiera
+z pliku Setting.xml. Nazwa regionu wypisywana jest w tytule okna głównego programu
+Gdy nie ma nazwy regionu lub jest błędna to startuje bez regionu. Wtedy w tytule okna głównego
+SWIP5 nie jest wypisywana nazwa regionu
+
+E. Dokumentacja
+
+Informacje o programie znajdują się na stronie https://docs.cyfronet.pl/display/SWIP
+Instrukcja obsługi znajduje się na stronach:
+Informacje ogólne: https://docs.cyfronet.pl/pages/viewpage.action?pageId=74809975
+Moduły programu: https://docs.cyfronet.pl/pages/viewpage.action?pageId=91785221
+
+F. Referencje
+
+Wiszniowski, J. Plesiewicz B. i Holeczek G., 2021: Zastosowanie oprogramowania SWIP5 do analizy zagrożenia sejsmicznego w kopalniach, Bezpieczeństwo Pracy i Ochrona Środowiska w Górnictwie, Wydawnictwa WUG 5/2021, 2–6.
+
