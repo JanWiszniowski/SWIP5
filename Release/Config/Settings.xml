@@ -16,21 +16,21 @@
 			<first>Region</first>
 			<second>
 				<which>0</which>
-				<value>Song Tranh 2</value>
+				<value>Konin</value>
 			</second>
 		</item>
 		<item>
-			<first>Update path</first>
+			<first>AgencyID</first>
 			<second>
 				<which>0</which>
-				<value>c:\swip5\SVN\QuakeMLFiles</value>
+				<value>IG PAS</value>
 			</second>
 		</item>
 		<item>
-			<first>agencyID</first>
+			<first>AgencyURI</first>
 			<second>
 				<which>0</which>
-				<value>IGPAS</value>
+				<value>www.igf.edu.pl</value>
 			</second>
 		</item>
 	</settings>

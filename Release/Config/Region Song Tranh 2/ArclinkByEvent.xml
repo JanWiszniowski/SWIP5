@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="12">
-<timeBefore>120000000</timeBefore>
-<timeAfter>60000000</timeAfter>
+<timeBefore>10000000</timeBefore>
+<timeAfter>90000000</timeAfter>
 </boost_serialization>
 

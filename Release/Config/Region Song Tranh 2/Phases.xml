@@ -7,7 +7,7 @@
 	<item class_id="1" tracking_level="0" version="0">
 		<first>Pg</first>
 		<second class_id="2" tracking_level="0" version="0">
-			<noClicks>73</noClicks>
+			<noClicks>381</noClicks>
 			<red>128</red>
 			<green>128</green>
 			<blue>128</blue>
@@ -33,7 +33,7 @@
 	<item>
 		<first>Sg</first>
 		<second>
-			<noClicks>13</noClicks>
+			<noClicks>132</noClicks>
 			<red>128</red>
 			<green>128</green>
 			<blue>128</blue>
@@ -52,8 +52,8 @@
 				<item>1</item>
 				<item>2</item>
 			</allowedPolarity>
-			<nextPhasePick>Sg</nextPhasePick>
-			<cursorName>Icons/PhaseCursor_Sg.cur</cursorName>
+			<nextPhasePick>Pg</nextPhasePick>
+			<cursorName></cursorName>
 		</second>
 	</item>
 	<item>

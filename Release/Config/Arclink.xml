@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Settings class_id="0" tracking_level="0" version="0">
+	<synchronisationPeriod>0</synchronisationPeriod>
+	<host>localhost</host>
+	<port>18001</port>
+	<timeout>60</timeout>
+	<user></user>
+	<password></password>
+	<institution></institution>
+	<dcid_path></dcid_path>
+	<path_buf></path_buf>
+	<wait_for_data_ready>30</wait_for_data_ready>
+	<waveform_duration>5.00000000000000000e+000</waveform_duration>
+	<waveform_begin class_id="1" tracking_level="0" version="0">
+		<string>[NAN TIME]</string>
+		<microseconds>0</microseconds>
+	</waveform_begin>
+	<waveform_end>
+		<string>[NAN TIME]</string>
+		<microseconds>0</microseconds>
+	</waveform_end>
+	<reloadSta>0</reloadSta>
+	<regionSta class_id="2" tracking_level="0" version="0">
+		<count>0</count>
+		<item_version>0</item_version>
+	</regionSta>
+</Settings>
+</boost_serialization>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<Parameters class_id="0" tracking_level="0" version="0">
+	<configureFilter>0</configureFilter>
+	<removeFiteredChannel>0</removeFiteredChannel>
+	<hideFiteredChannel>0</hideFiteredChannel>
+	<fiterOriginChannel>0</fiterOriginChannel>
+	<hideInputChannels>0</hideInputChannels>
+	<keepScale>1</keepScale>
+	<numberOfFilteredChannels>0</numberOfFilteredChannels>
+	<sinWindow>1</sinWindow>
+</Parameters>
+</boost_serialization>
+

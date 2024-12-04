@@ -10,31 +10,31 @@
 </monitor>
 <main>
 	<show>0</show>
-	<sizeX>1920</sizeX>
-	<sizeY>1043</sizeY>
-	<positionX>197</positionX>
-	<positionY>51</positionY>
+	<sizeX>1366</sizeX>
+	<sizeY>728</sizeY>
+	<positionX>45</positionX>
+	<positionY>37</positionY>
 </main>
 <zoom>
 	<show>0</show>
-	<sizeX>1061</sizeX>
-	<sizeY>454</sizeY>
-	<positionX>50</positionX>
-	<positionY>129</positionY>
+	<sizeX>1366</sizeX>
+	<sizeY>728</sizeY>
+	<positionX>540</positionX>
+	<positionY>534</positionY>
 </zoom>
 <report>
 	<show>1</show>
-	<sizeX>1606</sizeX>
-	<sizeY>865</sizeY>
-	<positionX>155</positionX>
-	<positionY>51</positionY>
+	<sizeX>1366</sizeX>
+	<sizeY>728</sizeY>
+	<positionX>245</positionX>
+	<positionY>200</positionY>
 </report>
 <elaboration>
-	<show>1</show>
-	<sizeX>1920</sizeX>
-	<sizeY>1160</sizeY>
-	<positionX>153</positionX>
-	<positionY>45</positionY>
+	<show>0</show>
+	<sizeX>1366</sizeX>
+	<sizeY>728</sizeY>
+	<positionX>682</positionX>
+	<positionY>363</positionY>
 </elaboration>
 </boost_serialization>
 

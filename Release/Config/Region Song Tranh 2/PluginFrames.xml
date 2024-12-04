@@ -2,16 +2,26 @@
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="12">
 <pluginFrameParameters class_id="0" tracking_level="0" version="0">
-	<count>2</count>
+	<count>5</count>
 	<item_version>0</item_version>
 	<item class_id="1" tracking_level="0" version="0">
 		<first>Channels response plot</first>
 		<second class_id="2" tracking_level="0" version="0">
 			<show>0</show>
-			<sizeX>620</sizeX>
-			<sizeY>460</sizeY>
-			<positionX>847</positionX>
-			<positionY>342</positionY>
+			<sizeX>1409</sizeX>
+			<sizeY>426</sizeY>
+			<positionX>345</positionX>
+			<positionY>222</positionY>
+		</second>
+	</item>
+	<item>
+		<first>Empty window</first>
+		<second>
+			<show>0</show>
+			<sizeX>500</sizeX>
+			<sizeY>300</sizeY>
+			<positionX>841</positionX>
+			<positionY>343</positionY>
 		</second>
 	</item>
 	<item>
@@ -20,8 +30,28 @@
 			<show>0</show>
 			<sizeX>1080</sizeX>
 			<sizeY>900</sizeY>
-			<positionX>617</positionX>
-			<positionY>122</positionY>
+			<positionX>43</positionX>
+			<positionY>16</positionY>
+		</second>
+	</item>
+	<item>
+		<first>Non linear locator</first>
+		<second>
+			<show>0</show>
+			<sizeX>956</sizeX>
+			<sizeY>698</sizeY>
+			<positionX>739</positionX>
+			<positionY>187</positionY>
+		</second>
+	</item>
+	<item>
+		<first>Plot residuals window</first>
+		<second>
+			<show>0</show>
+			<sizeX>1283</sizeX>
+			<sizeY>881</sizeY>
+			<positionX>102</positionX>
+			<positionY>78</positionY>
 		</second>
 	</item>
 </pluginFrameParameters>

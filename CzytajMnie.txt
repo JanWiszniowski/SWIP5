@@ -1,6 +1,6 @@
 A. Zawartość repozytorium
 
-W katalogu https://git.plgrid.pl/projects/SWIP/repos/SWIP5_public/Release znajdują się wszystkie
+W katalogu https://github.com/JanWiszniowski/SWIP5/Release znajdują się wszystkie
 pliki potrzebne do działania programu, w tym pliki exe, i dll, oraz pliki przykładowa konfiguracja.
 W katalogu Data znajdują się pliki przykładowego wstrząsu 
 Struktura podkatalogów Release jest następująca: 
@@ -18,8 +18,8 @@ lub usuwanie pozwala zmieniać funkcjonalność programu.
 B. Pobranie programu
 
 1. Pierwszy sposób polega na pobraniu skompresowanych plików. W tym celu na stronie
-https://git.plgrid.pl/projects/SWIP/repos/SWIP5_public/browse/Release
-należy kliknąć przycisk [...] i wybrać Download. Po zapisaniu bliku należy go rozpakować w wybranym
+https://github.com/JanWiszniowski/SWIP5/Release
+należy kliknąć przycisk <> Code i wybrać Download Zip. Po zapisaniu bliku należy go rozpakować w wybranym
 katalogu. Można do tego użyć dowolnego programu do dekompresji. Program zostanie przekopiowany
 do podkatalogu: .\Release\
 Można go wywołać poleceniem SWIP5 z katalogu .\Release\. Wywołanie z innego katalogu spowoduje
@@ -34,7 +34,7 @@ Po zainstalowaniu gita należy podać dane osobiste:
 git config --global user.name "Imię Nazwisko"
 git config --global user.email "mail@instytut.pl"
 następnie sklonować kody programu poleceniem:
-git clone https://git.plgrid.pl/scm/swip/SWIP5_public.git
+git clone https://github.com/JanWiszniowski/SWIP5.git
 Program zostanie przekopiowany (sklonowany) do podkatalogu: .\SWIP5_public\Release\
 Można go wywołać poleceniem SWIP5 z katalogu .\SWIP5_public\Release\. Wywołanie z innego katalogu
 spowoduje przydzielenie złych ścieżek i w efekcie błędną pracę programu. 
@@ -49,7 +49,7 @@ ale pliki konfiguracyjne niektórych wtyczek mogą być nieaktualne, co jest w w
 odpowiednio komunikowane, i należy je poprawić na postawie plików tmp. Pliki tmp są tworzone w
 momencie, gdy wtyczka nie potrafi poprawnie odczytać odpowiednich plików xml z konfiguracją wtyczki.
 2. W przypadku klonowania aktualizację programu wykonuje się poleceniem:
-git pull https://git.plgrid.pl/scm/swip/SWIP5_public.git
+git pull.git https://github.com/JanWiszniowski/SWIP5.git
 
 D. Konfiguracja programu
 

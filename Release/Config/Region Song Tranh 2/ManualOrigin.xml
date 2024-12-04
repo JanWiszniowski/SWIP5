@@ -5,7 +5,7 @@
 	<timeZone>0</timeZone>
 	<typeOfCordinates>0</typeOfCordinates>
 	<preferedOrigin>0</preferedOrigin>
-	<sourceOfInformation></sourceOfInformation>
+	<sourceOfInformation>External catalog VAST</sourceOfInformation>
 	<scanText>Time:%Y-%m-%d; Longitude:%f; Latitude:%f; Depth:%f; Source:;</scanText>
 	<separator>\s+</separator>
 </Parameters>

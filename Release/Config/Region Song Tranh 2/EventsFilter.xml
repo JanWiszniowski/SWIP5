@@ -2,17 +2,37 @@
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="12">
 <Parameters class_id="0" tracking_level="0" version="0">
-	<count>2</count>
+	<count>6</count>
 	<item_version>0</item_version>
 	<item class_id="1" tracking_level="0" version="0">
-		<what></what>
-		<relation></relation>
-		<value></value>
+		<what>Origin</what>
+		<relation>?</relation>
+		<value>0.0</value>
 	</item>
 	<item>
-		<what></what>
-		<relation></relation>
-		<value></value>
+		<what>Latitude</what>
+		<relation>GE</relation>
+		<value>15.32</value>
+	</item>
+	<item>
+		<what>Latitude</what>
+		<relation>LE</relation>
+		<value>15.39</value>
+	</item>
+	<item>
+		<what>Longitude</what>
+		<relation>GE</relation>
+		<value>108.09</value>
+	</item>
+	<item>
+		<what>Longitude</what>
+		<relation>LE</relation>
+		<value>108.14</value>
+	</item>
+	<item>
+		<what>Picks P</what>
+		<relation>GE</relation>
+		<value>7</value>
 	</item>
 </Parameters>
 </boost_serialization>

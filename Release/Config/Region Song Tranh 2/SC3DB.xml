@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!DOCTYPE boost_serialization>
 <boost_serialization signature="serialization::archive" version="12">
-<parameters class_id="0" tracking_level="0" version="0">
-	<host>localhost</host>
+<Parameters class_id="0" tracking_level="0" version="0">
+	<host>dbveris.igf.edu.pl</host>
 	<database>SC3DB</database>
-	<user>user</user>
-	<password>password</password>
+	<user>####</user>
+	<password>####</password>
 	<standby>0</standby>
-	<confirmOne>1</confirmOne>
-</parameters>
+	<confirmOne>0</confirmOne>
+</Parameters>
 </boost_serialization>
 

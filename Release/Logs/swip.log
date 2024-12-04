@@ -1,219 +1,99 @@
-[INFO] [2022-03-16 10:42:48] No regional setings
-[DEBUG] [2022-03-16 10:42:49] Init MyFrame
-[DEBUG] [2022-03-16 10:42:49] smi:igf.edu.pl/LUMINEOS#eventParameters
-[DEBUG] [2022-03-16 10:42:49] Library found in: Plugins\ArclinkByEvent.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:49] Plugin loaded: ArclinkByEvent, version: 1.
-[DEBUG] [2022-03-16 10:42:49] Library found in: Plugins\ArclinkExtension.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:49] Plugin loaded: ArclinkExtension, version: 1.
-[DEBUG] [2022-03-16 10:42:49] Library found in: Plugins\ArcLinkPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:50] Plugin loaded: ArcLink Plugin, version: 1.
-[DEBUG] [2022-03-16 10:42:50] Library found in: Plugins\ArcLinkSelection.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:50] Plugin loaded: ArcLinkSelection, version: 1.
-[DEBUG] [2022-03-16 10:42:50] Library found in: Plugins\BatchPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:50] Plugin loaded: BatchPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:50] Library found in: Plugins\BFGSOptimizationPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:50] Plugin loaded: BFGS quasi-newton method, version: 1.
-[DEBUG] [2022-03-16 10:42:50] Library found in: Plugins\ChannelProcessingPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:51] Plugin loaded: Channel processing, version: 1.
-[DEBUG] [2022-03-16 10:42:51] Library found in: Plugins\CURLPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:51] Plugin loaded: CURLPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:51] Library found in: Plugins\Differentiation.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:51] Plugin loaded: Differentiation, version: 1.
-[DEBUG] [2022-03-16 10:42:51] Library found in: Plugins\EmptyFilter.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:51] Plugin loaded: Empty filter, version: 1.
-[DEBUG] [2022-03-16 10:42:51] Library found in: Plugins\EmptyPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:51] Plugin loaded: EmptyPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:51] Library found in: Plugins\EmptyWinPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:52] Plugin loaded: EmptyWinPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:52] Library found in: Plugins\EMSCOriginPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:52] Plugin loaded: EMSCOriginPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:52] Library found in: Plugins\EventsFilter.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:52] Plugin loaded: EventsFilter, version: 1.
-[DEBUG] [2022-03-16 10:42:52] Library found in: Plugins\ExportANNDetection.dll; Loading plugin...
-[WARNING] [2022-03-16 10:42:52] Missing configuration directory
-''
-Do setup ANN detection
-[DEBUG] [2022-03-16 10:42:52] Plugin loaded: ExportANNDetection, version: 1.
-[DEBUG] [2022-03-16 10:42:52] Library found in: Plugins\ExportCSVCatalog.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:52] Plugin loaded: Export to CSV catalog, version: 1.
-[DEBUG] [2022-03-16 10:42:52] Library found in: Plugins\ExportHTMLCatalog.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:52] Plugin loaded: Export to HTML catalog, version: 1.
-[DEBUG] [2022-03-16 10:42:52] Library found in: Plugins\ExportISEPOSCatalog.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:54] Plugin loaded: Export IS-EPOS catalog, version: 1.
-[DEBUG] [2022-03-16 10:42:54] Library found in: Plugins\ExportISEPOSGMCatalog.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:54] Plugin loaded: Export IS-EPOS ground motion catalog, version: 1.
-[DEBUG] [2022-03-16 10:42:54] Library found in: Plugins\ExportISFBulletin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:54] Plugin loaded: Export to ISF bulletin, version: 1.
-[DEBUG] [2022-03-16 10:42:54] Library found in: Plugins\ExportMiniSEEDPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:54] Plugin loaded: ExportMiniSEEDPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:54] Library found in: Plugins\FDSNWSClient.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:55] Plugin loaded: FDSNWSClient, version: 1.
-[DEBUG] [2022-03-16 10:42:55] Library found in: Plugins\GenericWaveformReaderPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:55] Plugin loaded: Generic Waveform Reader, version: 1.
-[DEBUG] [2022-03-16 10:42:55] Library found in: Plugins\GIGEPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:55] Plugin loaded: GIGEPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:55] Library found in: Plugins\GPhDetView.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:55] Plugin loaded: Generalized Phase Detection, version: 1.
-[DEBUG] [2022-03-16 10:42:55] Library found in: Plugins\GridSearchPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:55] Plugin loaded: Grid Search, version: 1.
-[DEBUG] [2022-03-16 10:42:55] Library found in: Plugins\GroundMotionsPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:55] Plugin loaded: GroundMotionsPluginPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:55] Library found in: Plugins\GSIS2017Plugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:55] Plugin loaded: GSIS2017Plugin, version: 1.
-[DEBUG] [2022-03-16 10:42:55] Library found in: Plugins\HideUnpickedStations.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:56] Plugin loaded: HideUnpickedStations, version: 1.
-[DEBUG] [2022-03-16 10:42:56] Library found in: Plugins\HilbertTransform.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:56] Plugin loaded: Empty filter, version: 1.
-[DEBUG] [2022-03-16 10:42:56] Library found in: Plugins\HybridMT.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:56] Plugin loaded: HybridMT, version: 1.
-[DEBUG] [2022-03-16 10:42:56] Library found in: Plugins\IIR2Filter.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:56] Plugin loaded: IIR2 filter, version: 1.
-[DEBUG] [2022-03-16 10:42:56] Library found in: Plugins\ImportCatalogEPOSISPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:56] Plugin loaded: Import IS-EPOS catalog, version: 1.
-[DEBUG] [2022-03-16 10:42:56] Library found in: Plugins\ImportCSVCatalog.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:56] Plugin loaded: Import from CSV catalog, version: 1.
-[DEBUG] [2022-03-16 10:42:56] Library found in: Plugins\Integration.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:56] Plugin loaded: Integration, version: 1.
-[DEBUG] [2022-03-16 10:42:56] Library found in: Plugins\IRISASCIIReaderPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:57] Plugin loaded: IRIS ASCII Waveform, version: 1.
-[DEBUG] [2022-03-16 10:42:57] Library found in: Plugins\ListWaveformReaderPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:57] Plugin loaded: List Waveform Reader, version: 1.
-[DEBUG] [2022-03-16 10:42:57] Library found in: Plugins\LoadDatalessPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:57] Plugin loaded: LoadDatalessPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:57] Library found in: Plugins\LocSATPhasesPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:57] Plugin loaded: LocSATPhasesPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:57] Library found in: Plugins\LocSatPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:57] Plugin loaded: LocSat IG PAS, version: 201601010.
-[DEBUG] [2022-03-16 10:42:57] Library found in: Plugins\LocSatTabPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:58] Plugin loaded: HypoDD hodgraf, version: 1.
-[DEBUG] [2022-03-16 10:42:58] Library found in: Plugins\ManualOriginPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:58] Plugin loaded: ManualOriginPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:58] Library found in: Plugins\MatlabInterface.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:58] Plugin loaded: Matlab Plugin, version: 1.
-[DEBUG] [2022-03-16 10:42:58] Library found in: Plugins\MLPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:58] Plugin loaded: MLPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:58] Library found in: Plugins\MSEEDReaderPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:58] Plugin loaded: MSEED Waveform Reader, version: 1.
-[DEBUG] [2022-03-16 10:42:58] Library found in: Plugins\MwPluginSEISAN.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:59] Plugin loaded: MwPluginSEISAN, version: 1.
-[DEBUG] [2022-03-16 10:42:59] Library found in: Plugins\MwPluginSEISTOOL.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:59] Plugin loaded: MwPluginSEISTOOL, version: 1.
-[DEBUG] [2022-03-16 10:42:59] Library found in: Plugins\MwPluginSWIP4.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:42:59] Plugin loaded: MwPluginSWIP4, version: 1.
-[DEBUG] [2022-03-16 10:42:59] Library found in: Plugins\NLLTrans.dll; Loading plugin...
-[INFO] [2022-03-16 10:42:59] TRANSFORM  LAMBERT RefEllipsoid GRS-80  LatOrig 51.320000  LongOrig 15.870000  FirstStdParal 50.000000  SecondStdParal 52.000000  RotCW 0.000000
-[DEBUG] [2022-03-16 10:42:59] Plugin loaded: NLLTransPlugin, version: 1.
-[DEBUG] [2022-03-16 10:42:59] Library found in: Plugins\NonLinLocPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:00] Plugin loaded: NonLinLocPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:00] Library found in: Plugins\NonLinLocSupport.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:00] Plugin loaded: NonLinLocSupport, version: 1.
-[DEBUG] [2022-03-16 10:43:00] Library found in: Plugins\ParticleMotion.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:00] Plugin loaded: Particle Motion, version: 1.
-[DEBUG] [2022-03-16 10:43:00] Library found in: Plugins\PlotChannelResponse.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:00] Plugin loaded: PlotChannelResponsePlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:00] Library found in: Plugins\PlotResidualsPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:01] Plugin loaded: PlotResidualsPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:01] Library found in: Plugins\PlotStaMagnitude.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:01] Plugin loaded: PlotStaMagnitude, version: 1.
-[DEBUG] [2022-03-16 10:43:01] Library found in: Plugins\ProcessWaveformsPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:01] Plugin loaded: ProcessWaveforms, version: 1.
-[DEBUG] [2022-03-16 10:43:01] Library found in: Plugins\PythonInterface.dll; Loading plugin...
-[WARNING] [2022-03-16 10:43:01] Missing or wrong configuration file PythonInterface.xml. Template PythonInterface.tmp was created. Edit and rename it
-[DEBUG] [2022-03-16 10:43:01] Plugin loaded: PythonPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:01] Library found in: Plugins\RegionPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:02] Plugin loaded: RegionPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:02] Library found in: Plugins\RemoveOffset.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:02] Plugin loaded: Offset remover, version: 1.
-[DEBUG] [2022-03-16 10:43:02] Library found in: Plugins\SAPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:02] Plugin loaded: Simulated annealing, version: 1.
-[DEBUG] [2022-03-16 10:43:02] Library found in: Plugins\SC3DBAdmin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:02] Plugin loaded: SC3DBAdmin, version: 1.
-[DEBUG] [2022-03-16 10:43:02] Library found in: Plugins\SC3DBPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:03] Plugin loaded: SC3DBPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:03] Library found in: Plugins\SeisComPLocSelection.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:03] Plugin loaded: SC3SignalSelection, version: 1.
-[DEBUG] [2022-03-16 10:43:03] Library found in: Plugins\SelectByDetection.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:03] Plugin loaded: SelectionByDetection, version: 1.
-[DEBUG] [2022-03-16 10:43:03] Library found in: Plugins\SimplexPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:03] Plugin loaded: Simplex, version: 1.
-[DEBUG] [2022-03-16 10:43:03] Library found in: Plugins\SortByEpicentralDistance.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:03] Plugin loaded: SortByEpicentralDistances, version: 1.
-[DEBUG] [2022-03-16 10:43:03] Library found in: Plugins\SortByPhases.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:04] Plugin loaded: SortByPhases, version: 1.
-[DEBUG] [2022-03-16 10:43:04] Library found in: Plugins\SplineT.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:04] Plugin loaded: SOH extrapolation resumpling, version: 1.
-[DEBUG] [2022-03-16 10:43:04] Library found in: Plugins\SQRPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:04] Plugin loaded: Square, version: 1.
-[DEBUG] [2022-03-16 10:43:04] Library found in: Plugins\SuchaGoraPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:04] Plugin loaded: SuchaGoraPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:04] Library found in: Plugins\SWIDBEPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:04] Plugin loaded: SWIDBEPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:04] Library found in: Plugins\SWIDBPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:05] Plugin loaded: SWIDBPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:05] Library found in: Plugins\TemporaryPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:05] Plugin loaded: TemporaryPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:05] Library found in: Plugins\UtilsPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:05] Plugin loaded: UtilsPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:05] Library found in: Plugins\ViewEventPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:05] Plugin loaded: ViewEventPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:05] Library found in: Plugins\ViewXYEventPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:06] Plugin loaded: ViewXYEventPlugin, version: 1.
-[DEBUG] [2022-03-16 10:43:06] Library found in: Plugins\WASFilterPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:06] Plugin loaded: WOOD-ANDERSON SIMULATION, version: 1.
-[DEBUG] [2022-03-16 10:43:06] Library found in: Plugins\WebHelpPlugin.dll; Loading plugin...
-[DEBUG] [2022-03-16 10:43:06] Plugin loaded: TWebHelpPlugin, version: 1.
-[WARNING] [2022-03-16 10:43:06] Missing or wrong configuration file GroundMotions.xml. Template GroundMotions.tmp was created. Edit and rename it
-[REPORT] [2022-03-16 10:43:06]  GM: Only PGA can be measured
-[REPORT] [2022-03-16 10:43:06]  GM: After creation GroundMotion.xml restart the program
-[DEBUG] [2022-03-16 10:43:06] Plugin: ArclinkByEvent
-		Found menu position: 'Get waveform by event time'
-		Found menu position: 'Get waveform by picks time'
-		Found menu position: 'ArclinkByEvent'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Get waveform by event time
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Get waveform by picks time
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ArclinkByEvent
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: ArclinkExtension
+[INFO] [2024-12-04 11:20:48] Found regional setings
+[DEBUG] [2024-12-04 11:20:48] Init MyFrame
+[REPORT] [2024-12-04 11:20:48] smi:igf.edu.pl/default#eventParameters
+[DEBUG] [2024-12-04 11:20:48] Library found in: Plugins\ArclinkExtension.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:48] Plugin loaded: ArclinkExtension, version: 1.
+[DEBUG] [2024-12-04 11:20:48] Library found in: Plugins\ArcLinkPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:48] Plugin loaded: ArcLink Plugin, version: 1.
+[DEBUG] [2024-12-04 11:20:48] Library found in: Plugins\BatchPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: BatchPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\ChannelProcessingPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Channel processing, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\Differentiation.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Differentiation, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\EmptyFilter.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Empty filter, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\EmptyPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: EmptyPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\EmptyWinPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: EmptyWinPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\ExportISFBulletin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Export to ISF bulletin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\ExportMiniSEEDPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: ExportMiniSEEDPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\GenericWaveformReaderPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Generic Waveform Reader, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\GridSearchPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Grid Search, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\IIR2Filter.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: IIR2 filter, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\Integration.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Integration, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\IRISASCIIReaderPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: IRIS ASCII Waveform, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\LoadDatalessPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: LoadDatalessPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\LocSatPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: LocSat IG PAS, version: 201601010.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\MLPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: MLPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\MSEEDReaderPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: MSEED Waveform Reader, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\MwPluginSWIP4.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: MwPluginSWIP4, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\ParticleMotion.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Particle Motion, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\RegionPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: RegionPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\RemoveOffset.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Offset remover, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\SimplexPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Simplex, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\SQRPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: Square, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\UtilsPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: UtilsPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\ViewEventPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: ViewEventPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\WASFilterPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: WOOD-ANDERSON SIMULATION, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Library found in: Plugins\WebHelpPlugin.dll; Loading plugin...
+[DEBUG] [2024-12-04 11:20:49] Plugin loaded: TWebHelpPlugin, version: 1.
+[DEBUG] [2024-12-04 11:20:49] Plugin: ArclinkExtension
+[DEBUG] [2024-12-04 11:20:49] Plugin: ArclinkExtensionPlugin: ArclinkExtension
 		Found menu position: 'Next Period'
 		Found menu position: 'ArclinkExtension'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Next Period
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ArclinkExtension
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: ArcLink Plugin
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Next Period
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU ArclinkExtension
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: ArcLink Plugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: ArcLink PluginPlugin: ArcLink Plugin
 		Found menu position: 'Open'
 		Found menu position: 'Synchronize inventory'
-		Found menu position: 'Load dataless files'
+		Found menu position: 'Load all dataless files'
+		Found menu position: 'Load selected dataless files'
 		Found menu position: 'ArcLink'
 		Found menu position: 'ArcLink Plugin'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Open
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Synchronize inventory
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Load dataless files
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ArcLink
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ArcLink Plugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: ArcLinkSelection
-		Found menu position: 'Do detected signals'
-		Found menu position: 'ArcLinkSelection'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Do detected signals
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ArcLinkSelection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: BatchPlugin
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Open
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Synchronize inventory
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Load all dataless files
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Load selected dataless files
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU ArcLink
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU ArcLink Plugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: BatchPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: BatchPluginPlugin: BatchPlugin
 		Found menu position: 'Process step by step...'
 		Found menu position: 'Stop the step by step process'
 		Found menu position: 'Process first event'
@@ -226,42 +106,36 @@ Do setup ANN detection
 		Found menu position: 'Choose event by public ID'
 		Found menu position: 'List evntes IDs'
 		Found menu position: 'BatchPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Process step by step...
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Stop the step by step process
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Process first event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Process next event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Remove current and process next event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Choose first event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Choose next event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Remove current and choose next event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Choose previous event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Choose event by public ID
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU List evntes IDs
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU BatchPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: BFGS quasi-newton method
-		Found menu position: 'BFGS quasi-newton method'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU BFGS quasi-newton method
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Channel processing
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Process step by step...
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Stop the step by step process
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Process first event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Process next event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Remove current and process next event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Choose first event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Choose next event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Remove current and choose next event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Choose previous event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Choose event by public ID
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU List evntes IDs
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU BatchPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Channel processing
+[DEBUG] [2024-12-04 11:20:49] Plugin: Channel processingPlugin: Channel processing
 		Found menu position: 'Channel processing'
 		Found menu position: 'Differentiation'
 		Found menu position: 'Empty filter'
-		Found menu position: 'Analytic signal'
-		Found menu position: 'Envelope'
 		Found menu position: 'High pass'
 		Found menu position: 'Low pass'
 		Found menu position: 'Band pass'
@@ -269,221 +143,88 @@ Do setup ANN detection
 		Found menu position: 'Freq. stop'
 		Found menu position: 'Integration'
 		Found menu position: 'Offset remover'
-		Found menu position: 'WOOD-ANDERSON SIMULATION'
-		Found menu position: 'by stream'
-		Found menu position: 'to 1ms'
-		Found menu position: 'to 10ms'
-		Found menu position: 'to 20ms'
-		Found menu position: 'to 100ms'
 		Found menu position: 'Square'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Channel processing
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Differentiation
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Empty filter
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Analytic signal
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Filters'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Envelope
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU High pass
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Filters'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Low pass
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Filters'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Band pass
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Filters'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Freq. pass
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Filters'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Freq. stop
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Integration
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Offset remover
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU WOOD-ANDERSON SIMULATION
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU by stream
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Processing'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU to 1ms
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Processing'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU to 10ms
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Processing'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU to 20ms
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Processing'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU to 100ms
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'Processing'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Square
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: CURLPlugin
-		Found menu position: 'List URL'
-		Found menu position: 'CURLPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU List URL
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU CURLPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Differentiation
+		Found menu position: 'WOOD-ANDERSON SIMULATION'
+		Found menu position: 'Filtration  options'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Channel processing
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Differentiation
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Empty filter
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU High pass
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU 'Filters'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Low pass
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU 'Filters'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Band pass
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU 'Filters'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Freq. pass
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU 'Filters'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Freq. stop
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Integration
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Offset remover
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Square
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU 'Processing'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU WOOD-ANDERSON SIMULATION
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Filtration  options
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Differentiation
+[DEBUG] [2024-12-04 11:20:49] Plugin: DifferentiationPlugin: Differentiation
 		Found menu position: 'Differentiation'
 		Found menu position: 'Differentiation'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Differentiation
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Differentiation
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Empty filter
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Differentiation
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Differentiation
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Empty filter
+[DEBUG] [2024-12-04 11:20:49] Plugin: Empty filterPlugin: Empty filter
 		Found menu position: 'Empty filter'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Empty filter
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: EmptyPlugin
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Empty filter
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: EmptyPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: EmptyPluginPlugin: EmptyPlugin
 		Found menu position: 'Empty plugin...'
 		Found menu position: 'Empty plugin event'
 		Found menu position: 'EmptyPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Empty plugin...
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Empty plugin event
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU EmptyPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: EmptyWinPlugin
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Empty plugin...
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Empty plugin event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU EmptyPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: EmptyWinPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: EmptyWinPluginPlugin: EmptyWinPlugin
 		Found menu position: 'Empty Win plugin...'
 		Found menu position: 'EmptyWinPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Empty Win plugin...
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU EmptyWinPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: EMSCOriginPlugin
-		Found menu position: 'Put the EMSC origin'
-		Found menu position: 'EMSCOriginPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Put the EMSC origin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU EMSCOriginPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: EventsFilter
-		Found menu position: 'Filter events'
-		Found menu position: 'Set events filter'
-		Found menu position: 'EventsFilter'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Filter events
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Set events filter
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU EventsFilter
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: ExportANNDetection
-		Found menu position: 'Export ANN detection'
-		Found menu position: 'Compute ANN detection'
-		Found menu position: 'Compute ANN detection to file'
-		Found menu position: 'Setup ANN detection'
-		Found menu position: 'Make noises'
-		Found menu position: 'List noises'
-		Found menu position: 'Do detection'
-		Found menu position: 'Test detection'
-		Found menu position: 'Voting detection'
-		Found menu position: 'View detections'
-		Found menu position: 'Do trigger list'
-		Found menu position: 'Localise detection'
-		Found menu position: 'Do LocDet tables'
-		Found menu position: 'List noises'
-		Found menu position: 'ExportANNDetection'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export ANN detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Compute ANN detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Compute ANN detection to file
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Setup ANN detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'ANN'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Make noises
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'ANN'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU List noises
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Do detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Test detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Voting detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU View detections
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Do trigger list
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Localise detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Setup'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Do LocDet tables
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU 'ANN'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU List noises
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ExportANNDetection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Export to CSV catalog
-		Found menu position: 'CSV catalog'
-		Found menu position: 'Export to CSV catalog'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU CSV catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export to CSV catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Export to HTML catalog
-		Found menu position: 'HTML catalog'
-		Found menu position: 'Export to HTML catalog'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU HTML catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export to HTML catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Export IS-EPOS catalog
-		Found menu position: 'IS-EPOS catalog'
-		Found menu position: 'Export IS-EPOS catalog'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU IS-EPOS catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export IS-EPOS catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Export IS-EPOS ground motion catalog
-		Found menu position: 'IS-EPOS ground motions'
-		Found menu position: 'Export IS-EPOS ground motion catalog'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU IS-EPOS ground motions
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export IS-EPOS ground motion catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Export to ISF bulletin
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Empty Win plugin...
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU EmptyWinPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Export to ISF bulletin
+[DEBUG] [2024-12-04 11:20:49] Plugin: Export to ISF bulletinPlugin: Export to ISF bulletin
 		Found menu position: 'ISF bulletin'
 		Found menu position: 'Export to ISF bulletin'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ISF bulletin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export to ISF bulletin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: ExportMiniSEEDPlugin
+[DEBUG] [2024-12-04 11:20:49] ADD MENU ISF bulletin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export to ISF bulletin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: ExportMiniSEEDPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: ExportMiniSEEDPluginPlugin: ExportMiniSEEDPlugin
 		Found menu position: 'Export view to MiniSEED'
 		Found menu position: 'Export selected to MiniSEED'
 		Found menu position: 'Export view to float MiniSEED'
@@ -493,582 +234,177 @@ Do setup ANN detection
 		Found menu position: 'Export view to float MiniSEED'
 		Found menu position: 'Export selected to float MiniSEED'
 		Found menu position: 'ExportMiniSEEDPlugin'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export view to MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export selected to MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export view to float MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export selected to float MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export view to MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export selected to MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export view to float MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU ''
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Export selected to float MiniSEED
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU ExportMiniSEEDPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: FDSNWSClient
-		Found menu position: 'Open waveforms'
-		Found menu position: 'FDSNWSClient'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Open waveforms
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU FDSNWSClient
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Generic Waveform Reader
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export view to MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export selected to MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export view to float MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export selected to float MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export view to MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export selected to MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export view to float MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&File'
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU ''
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Export selected to float MiniSEED
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU ExportMiniSEEDPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Generic Waveform Reader
+[DEBUG] [2024-12-04 11:20:49] Plugin: Generic Waveform ReaderPlugin: Generic Waveform Reader
 		Found menu position: 'Open waveform files'
 		Found menu position: 'Add waveform files'
 		Found menu position: 'Generic Waveform Reader'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Open waveform files
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Add waveform files
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Generic Waveform Reader
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: GIGEPlugin
-		Found menu position: 'Energy'
-		Found menu position: 'GIGEPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Energy
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU GIGEPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Generalized Phase Detection
-		Found menu position: 'Load generalized phase detection results'
-		Found menu position: 'Generalized Phase Detection'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Load generalized phase detection results
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Generalized Phase Detection
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Grid Search
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Open waveform files
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Add waveform files
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Generic Waveform Reader
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Grid Search
+[DEBUG] [2024-12-04 11:20:49] Plugin: Grid SearchPlugin: Grid Search
 		Found menu position: 'Grid Search'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Grid Search
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: GroundMotionsPluginPlugin
-		Found menu position: 'Ground motions'
-		Found menu position: 'GroundMotionsPluginPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Ground motions
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU GroundMotionsPluginPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: GSIS2017Plugin
-		Found menu position: 'GSIS-2017 parameters'
-		Found menu position: 'GSIS2017Plugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU GSIS-2017 parameters
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU GSIS2017Plugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: HideUnpickedStations
-		Found menu position: 'Hide upicked stations'
-		Found menu position: 'HideUnpickedStations'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Hide upicked stations
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU HideUnpickedStations
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Empty filter
-		Found menu position: 'Empty filter'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Empty filter
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: HybridMT
-		Found menu position: 'Full MT'
-		Found menu position: 'HypoDD(HybridMT)'
-		Found menu position: 'Proposed phases (HypoDD)'
-		Found menu position: 'View moment tensors'
-		Found menu position: 'HybridMT'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Full MT
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU HypoDD(HybridMT)
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Proposed phases (HypoDD)
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] ADD MENU View moment tensors
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU HybridMT
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: IIR2 filter
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Grid Search
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: IIR2 filter
+[DEBUG] [2024-12-04 11:20:49] Plugin: IIR2 filterPlugin: IIR2 filter
 		Found menu position: 'IIR2'
 		Found menu position: 'IIR2 filter'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU IIR2
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU IIR2 filter
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Import IS-EPOS catalog
-		Found menu position: 'IS-EPOS catalog'
-		Found menu position: 'Import IS-EPOS catalog'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU IS-EPOS catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Import IS-EPOS catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Import from CSV catalog
-		Found menu position: 'CSV catalog'
-		Found menu position: 'Import from CSV catalog'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU CSV catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Import from CSV catalog
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: Integration
+[DEBUG] [2024-12-04 11:20:49] ADD MENU IIR2
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU IIR2 filter
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Integration
+[DEBUG] [2024-12-04 11:20:49] Plugin: IntegrationPlugin: Integration
 		Found menu position: 'Integration'
 		Found menu position: 'Integration'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Integration
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Integration
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: IRIS ASCII Waveform
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Integration
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Integration
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: IRIS ASCII Waveform
+[DEBUG] [2024-12-04 11:20:49] Plugin: IRIS ASCII WaveformPlugin: IRIS ASCII Waveform
 		Found menu position: 'IRIS ASCII Waveform'
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU IRIS ASCII Waveform
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: List Waveform Reader
-		Found menu position: 'First file'
-		Found menu position: 'Next file'
-		Found menu position: 'List Waveform Reader'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU First file
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Next file
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU List Waveform Reader
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: LoadDatalessPlugin
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU IRIS ASCII Waveform
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: LoadDatalessPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: LoadDatalessPluginPlugin: LoadDatalessPlugin
 		Found menu position: 'Load dataless files'
 		Found menu position: 'LoadDatalessPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Load dataless files
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU LoadDatalessPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] Plugin: LocSATPhasesPlugin
-		Found menu position: 'Proposed phases (LocSAT)'
-		Found menu position: 'LocSATPhasesPlugin'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU Proposed phases (LocSAT)
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:06] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:06] ADD MENU LocSATPhasesPlugin
-[DEBUG] [2022-03-16 10:43:06] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: LocSat IG PAS
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Load dataless files
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU LoadDatalessPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: LocSat IG PAS
+[DEBUG] [2024-12-04 11:20:49] Plugin: LocSat IG PASPlugin: LocSat IG PAS
 		Found menu position: 'LocSAT'
 		Found menu position: 'LocSat IG PAS'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU LocSAT
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU LocSat IG PAS
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: HypoDD hodgraf
-		Found menu position: 'Create hodograf from HypoDD'
-		Found menu position: 'HypoDD hodgraf'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create hodograf from HypoDD
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU HypoDD hodgraf
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: ManualOriginPlugin
-		Found menu position: 'Manual inserting of the origin'
-		Found menu position: 'ManualOriginPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Manual inserting of the origin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU ManualOriginPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: Matlab Plugin
-		Found menu position: 'Save QuakeML to Matlab file'
-		Found menu position: 'Open matlab'
-		Found menu position: 'Close matlab'
-		Found menu position: 'Create data for AC'
-		Found menu position: 'Create catalog for the EPOS TCS AH'
-		Found menu position: 'Create Bogdanka catalog for the EPOS TCS AH'
-		Found menu position: 'Create Lai Chau catalog for the EPOS TCS AH'
-		Found menu position: 'Create SENTINELS catalog for the EPOS TCS AH'
-		Found menu position: 'Create VERIS catalog for the EPOS TCS AH'
-		Found menu position: 'Save signals to matlab file'
-		Found menu position: 'Save signal'
-		Found menu position: 'Test plot'
-		Found menu position: 'Test spectrogram'
-		Found menu position: 'Test spectrograms'
-		Found menu position: 'Export current event'
-		Found menu position: 'Export QuakeML'
-		Found menu position: 'Export seismograms'
-		Found menu position: 'Matlab Plugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Save QuakeML to Matlab file
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Open matlab
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Close matlab
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create data for AC
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create catalog for the EPOS TCS AH
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create Bogdanka catalog for the EPOS TCS AH
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create Lai Chau catalog for the EPOS TCS AH
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create SENTINELS catalog for the EPOS TCS AH
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create VERIS catalog for the EPOS TCS AH
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Save signals to matlab file
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Save signal
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Test plot
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Test spectrogram
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Test spectrograms
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Export current event
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Export QuakeML
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Export seismograms
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Matlab Plugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: MLPlugin
+[DEBUG] [2024-12-04 11:20:49] ADD MENU LocSAT
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU LocSat IG PAS
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: MLPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: MLPluginPlugin: MLPlugin
 		Found menu position: 'ML'
 		Found menu position: 'MLPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU ML
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU MLPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: MSEED Waveform Reader
+[DEBUG] [2024-12-04 11:20:49] ADD MENU ML
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU MLPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: MSEED Waveform Reader
+[DEBUG] [2024-12-04 11:20:49] Plugin: MSEED Waveform ReaderPlugin: MSEED Waveform Reader
 		Found menu position: 'MSEED Waveform Reader'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU MSEED Waveform Reader
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: MwPluginSEISAN
-		Found menu position: 'Mw (SEISAN)'
-		Found menu position: 'Mw automatically (SEISAN)'
-		Found menu position: 'Mw autosta (SEISAN)'
-		Found menu position: 'MwPluginSEISAN'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Mw (SEISAN)
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Mw automatically (SEISAN)
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Mw autosta (SEISAN)
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU MwPluginSEISAN
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: MwPluginSEISTOOL
-		Found menu position: 'Mw create study set(SEISAN)'
-		Found menu position: 'MwPluginSEISTOOL'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Mw create study set(SEISAN)
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU MwPluginSEISTOOL
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: MwPluginSWIP4
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU MSEED Waveform Reader
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: MwPluginSWIP4
+[DEBUG] [2024-12-04 11:20:49] Plugin: MwPluginSWIP4Plugin: MwPluginSWIP4
 		Found menu position: 'Mw (SWIP4)'
+		Found menu position: 'Set mean Mw (SWIP4)'
 		Found menu position: 'MwPluginSWIP4'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Mw (SWIP4)
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU MwPluginSWIP4
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: NLLTransPlugin
-		Found menu position: 'NLLTransPlugin'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU NLLTransPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: NonLinLocPlugin
-		Found menu position: 'NonLinLoc'
-		Found menu position: 'NonLinLocPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU NonLinLoc
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU NonLinLocPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: NonLinLocSupport
-		Found menu position: 'Define GTSRCEs'
-		Found menu position: 'Convert LAYERs'
-		Found menu position: 'Run VEL2GRID'
-		Found menu position: 'Run GRID2TIME'
-		Found menu position: 'Select config files'
-		Found menu position: 'NonLinLocSupport'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Define GTSRCEs
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Setup'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Convert LAYERs
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Setup'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Run VEL2GRID
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Setup'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Run GRID2TIME
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Setup'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Select config files
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU NonLinLocSupport
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: Particle Motion
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Mw (SWIP4)
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Set mean Mw (SWIP4)
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU MwPluginSWIP4
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Particle Motion
+[DEBUG] [2024-12-04 11:20:49] Plugin: Particle MotionPlugin: Particle Motion
 		Found menu position: 'Particle motions'
 		Found menu position: 'Particle Motion'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Particle motions
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Particle Motion
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: PlotChannelResponsePlugin
-		Found menu position: 'Plot channel responses'
-		Found menu position: 'PlotChannelResponsePlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Plot channel responses
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU PlotChannelResponsePlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: PlotResidualsPlugin
-		Found menu position: 'Plot residuals'
-		Found menu position: 'PlotResidualsPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Plot residuals
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU PlotResidualsPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: PlotStaMagnitude
-		Found menu position: 'Plot station magnitudes'
-		Found menu position: 'PlotStaMagnitude'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Plot station magnitudes
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU PlotStaMagnitude
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: ProcessWaveforms
-		Found menu position: 'Process waveforms'
-		Found menu position: 'ProcessWaveforms'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Process waveforms
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU ProcessWaveforms
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: PythonPlugin
-		Found menu position: 'PythonPlugin'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU PythonPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: RegionPlugin
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Particle motions
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Particle Motion
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: RegionPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: RegionPluginPlugin: RegionPlugin
 		Found menu position: 'Convert geographic shapes to XY'
 		Found menu position: 'Convert XY shapes to geographic'
 		Found menu position: 'Define Region'
 		Found menu position: 'RegionPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Convert geographic shapes to XY
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Convert XY shapes to geographic
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Define Region
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU RegionPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: Offset remover
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Convert geographic shapes to XY
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Convert XY shapes to geographic
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Define Region
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU RegionPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Offset remover
+[DEBUG] [2024-12-04 11:20:49] Plugin: Offset removerPlugin: Offset remover
 		Found menu position: 'Offset remover'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Offset remover
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: Simulated annealing
-		Found menu position: 'Simulated annealing'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Simulated annealing
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SC3DBAdmin
-		Found menu position: 'Delete event'
-		Found menu position: 'SC3DBAdmin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Delete event
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SC3DBAdmin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SC3DBPlugin
-		Found menu position: 'SC3DB settings'
-		Found menu position: 'Save elaboration'
-		Found menu position: 'Save one current event'
-		Found menu position: 'Load elaboration for waveforms'
-		Found menu position: 'List events'
-		Found menu position: 'Load all events WARNING'
-		Found menu position: 'List last days work'
-		Found menu position: 'Show picked phases'
-		Found menu position: 'Load events selected by time WARNING'
-		Found menu position: 'Load events by public ID'
-		Found menu position: 'SC3DBPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SC3DB settings
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Save elaboration
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Save one current event
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load elaboration for waveforms
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU List events
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load all events WARNING
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU List last days work
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Show picked phases
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load events selected by time WARNING
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load events by public ID
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SC3DBPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SC3SignalSelection
-		Found menu position: 'Do SeisComP locs signals'
-		Found menu position: 'SC3SignalSelection'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Do SeisComP locs signals
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SC3SignalSelection
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SelectionByDetection
-		Found menu position: 'Create signals by detections'
-		Found menu position: 'SelectionByDetection'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Create signals by detections
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SelectionByDetection
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: Simplex
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Offset remover
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Simplex
+[DEBUG] [2024-12-04 11:20:49] Plugin: SimplexPlugin: Simplex
 		Found menu position: 'Simplex'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Simplex
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SortByEpicentralDistances
-		Found menu position: 'SortByEpicentralDistances'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SortByEpicentralDistances
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SortByPhases
-		Found menu position: 'SortByPhases'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SortByPhases
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SOH extrapolation resumpling
-		Found menu position: 'SOH extrapolation resumpling'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SOH extrapolation resumpling
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: Square
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Simplex
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: Square
+[DEBUG] [2024-12-04 11:20:49] Plugin: SquarePlugin: Square
 		Found menu position: 'Square'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Square
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SuchaGoraPlugin
-		Found menu position: 'SuchaGoraPlugin'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SuchaGoraPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SWIDBEPlugin
-		Found menu position: 'Load elaboration for waveforms'
-		Found menu position: 'Load all elaboration'
-		Found menu position: 'SWIDBEPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load elaboration for waveforms
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load all elaboration
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SWIDBEPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: SWIDBPlugin
-		Found menu position: 'Load event for waveforms'
-		Found menu position: 'Load station prameters'
-		Found menu position: 'List Events'
-		Found menu position: 'Load all events WARNING'
-		Found menu position: 'Load event by number'
-		Found menu position: 'SWIDB settings'
-		Found menu position: 'SWIDBPlugin'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load event for waveforms
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load station prameters
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU List Events
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load all events WARNING
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&File'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Load event by number
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SWIDB settings
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SWIDBPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: TemporaryPlugin
-		Found menu position: 'Possible wrong ML'
-		Found menu position: 'Possible wrong NNA3'
-		Found menu position: 'Correction of wrong NNA3'
-		Found menu position: 'TemporaryPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Possible wrong ML
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Possible wrong NNA3
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Correction of wrong NNA3
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU TemporaryPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: UtilsPlugin
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Square
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: UtilsPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: UtilsPluginPlugin: UtilsPlugin
 		Found menu position: 'Channels state'
 		Found menu position: 'List loaded parameters'
 		Found menu position: 'Add comment to the event'
@@ -1076,56 +412,50 @@ Do setup ANN detection
 		Found menu position: 'Set preferred magnitude'
 		Found menu position: 'Set preferred mechanizm'
 		Found menu position: 'UtilsPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Channels state
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU List loaded parameters
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Add comment to the event
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Set preferred origin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Set preferred magnitude
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Set preferred mechanizm
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU UtilsPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: ViewEventPlugin
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Channels state
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU List loaded parameters
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Add comment to the event
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Set preferred origin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Set preferred magnitude
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Set preferred mechanizm
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU UtilsPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: ViewEventPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: ViewEventPluginPlugin: ViewEventPlugin
 		Found menu position: 'View all events'
 		Found menu position: 'View all origins'
 		Found menu position: 'ViewEventPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU View all events
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU View all origins
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU ViewEventPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: ViewXYEventPlugin
-		Found menu position: 'View all events in XY'
-		Found menu position: 'View all origins in XY'
-		Found menu position: 'ViewXYEventPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU View all events in XY
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU View all origins in XY
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU ViewXYEventPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: WOOD-ANDERSON SIMULATION
+[DEBUG] [2024-12-04 11:20:49] ADD MENU View all events
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU View all origins
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU ViewEventPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: WOOD-ANDERSON SIMULATION
+[DEBUG] [2024-12-04 11:20:49] Plugin: WOOD-ANDERSON SIMULATIONPlugin: WOOD-ANDERSON SIMULATION
 		Found menu position: 'WOOD-ANDERSON SIMULATION'
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU WOOD-ANDERSON SIMULATION
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] Plugin: TWebHelpPlugin
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU WOOD-ANDERSON SIMULATION
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] Plugin: TWebHelpPlugin
+[DEBUG] [2024-12-04 11:20:49] Plugin: TWebHelpPluginPlugin: TWebHelpPlugin
 		Found menu position: 'SWIP5 WWW'
 		Found menu position: 'Modules WWW'
 		Found menu position: 'TWebHelpPlugin'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU SWIP5 WWW
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] ADD MENU Modules WWW
-[DEBUG] [2022-03-16 10:43:07] ------------------------
-[DEBUG] [2022-03-16 10:43:07] FOUND SUBMENU '&Help'
-[DEBUG] [2022-03-16 10:43:07] ADD MENU TWebHelpPlugin
-[DEBUG] [2022-03-16 10:43:07] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU SWIP5 WWW
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] ADD MENU Modules WWW
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:20:49] FOUND SUBMENU '&Help'
+[DEBUG] [2024-12-04 11:20:49] ADD MENU TWebHelpPlugin
+[DEBUG] [2024-12-04 11:20:49] ------------------------
+[DEBUG] [2024-12-04 11:21:02] Blocked by clear
+[DEBUG] [2024-12-04 11:21:02] Unblocked from clear

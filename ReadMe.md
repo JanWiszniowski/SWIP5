@@ -1,5 +1,5 @@
 A. Content of the repository
-The https://git.plgrid.pl/projects/SWIP/repos/SWIP5_public/Release directory contains all the files needed for the program to run,
+The https://github.com/JanWiszniowski/SWIP5/Release directory contains all the files needed for the program to run,
 including exe and dll files, as well as files with a sample configuration.
 There are sample seismic event files in the Data directory. The structure of the Release subdirectories is as follows:
 Cache / Icons: The Cache directory is used to store temporary files. It has to exist to work program properly.
@@ -15,8 +15,8 @@ Plugins: This directory contains all program plugins - dll files. Their addition
 B. Downloading the program
 
 1. The first way of downloading is to download compressed files. For this purpose,
-on the site https://git.plgrid.pl/projects/SWIP/repos/SWIP5_public/browse/Release click the [...] button
-and select Download. After saving the zip file, it should be unpacked in the selected directory.
+on the site https://github.com/JanWiszniowski/SWIP5/Release click the <> Code button
+and select Download Zip. After saving the zip file, it should be unpacked in the selected directory.
 Any decompression program can be used for this. The program will be copied to subdirectory:
 .\Release\
 It can be invoked with the SWIP5 command from the. \Release\ directory. Calling from a different directory
@@ -29,8 +29,8 @@ The project is called Git for Windows (also msysGit). After installing the guita
 git config --global user.name "First Name Last Name"
 git config --global user.email mail@instytut.pl
 then clone the program codes with the command:
-git clone https://git.plgrid.pl/scm/swip/SWIP5_public.git
+git clone https://github.com/JanWiszniowski/SWIP5.git
 The program will be copied (cloned) to the subdirectory:
 \SWIP5_public\Release\
-It can be run with the SWIP5 command from the directory. \SWIP5_public\Release\. Calling from another directory
+It can be run with the SWIP5 command from the directory. \SWIP5\Release\. Calling from another directory
 will result in assigning wrong paths and as a result, the program will not work properly.
